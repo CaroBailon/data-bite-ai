@@ -1,6 +1,6 @@
 # 📐 StartSe AI Canvas — Data Bite
 
-> Framework estratégico estructurado sobre la metodología oficial de StartSe AI Canvas para validar la viabilidad técnica y comercial de la solución con IA.
+> Framework estratégico estructurado sobre la herramienta oficial [StartSe AI Canvas](https://ai-canvas.startse.com/?projectId=6ae31c498e32623e3697c822) para validar la viabilidad técnica y comercial de la solución con IA.
 
 ---
 
