@@ -20,7 +20,7 @@ Data Bite transforma la planificación alimentaria combinando el catálogo de pr
 El núcleo de la experiencia es **Moli**, un asistente virtual que guía al usuario mediante la entrega de planes de comida semanales adaptados a sus requerimientos nutricionales.
 
 ## 🏗️ Estructura del Repositorio
-* **[`docs/ StartSe AI Canvas`](./docs/StartSe_AI_Canvas.md)**: Documentación estratégica del proyecto con el framework StartSe.
+* **[`docs/ StartSe AI Canvas`](./docs/StartSe_AI_Canvas.md)**: Documentación estratégica del proyecto ([Ver Canvas en StartSe](TU_LINK_AQUI)).
 * **`moli-mascot.jpg` & `app-mockup.jpg`**: Prototipos visuales y mockups de la interfaz mobile.
 * **`data/`**: (Proyectado) Estructuración del catálogo de productos Molinos e información nutricional.
 
